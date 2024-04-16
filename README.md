@@ -6,6 +6,14 @@
 # **<div align="center">I'm Wang Yike, a student who codes projects for fun. 👨‍💻I have been coding since 2022🚀</div>**  
   
 
+[![Instagram Badge](https://img.shields.io/badge/-p55d2k-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/p55d2k)
+[![Youtube Badge](https://img.shields.io/badge/-p55d2k-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/@p55d2k)](https://www.youtube.com/@p55d2k)
+[![Gmail Badge](https://img.shields.io/badge/-peanutandscuffy1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peanutandscuffy1@gmail.com)](mailto:peanutandscuffy1@gmail.com)
+![visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fp55d2k%2Fp55d2k.json&style=flat&label=visitors&color=orange)
+[![last Updated](https://img.shields.io/github/last-commit/p55d2k/p55d2k/main?label=last%20updated&style=flat)](https://github.com/p55d2k/p55d2k/commits)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Thardothien&theme=onedark&no-frame=true&row=1)
+
 - ### **🔭 I’m currently working on a digital personal assistant, also known as [Jarvis](https://github.com/Thardothien/Jarvis2.0).**  
   
 
@@ -80,13 +88,6 @@
 </a>  
 </div>  
   
-[![Instagram Badge](https://img.shields.io/badge/-p55d2k-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/p55d2k)
-[![Youtube Badge](https://img.shields.io/badge/-p55d2k-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/@p55d2k)](https://www.youtube.com/@p55d2k)
-[![Gmail Badge](https://img.shields.io/badge/-peanutandscuffy1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:peanutandscuffy1@gmail.com)](mailto:peanutandscuffy1@gmail.com)
-![visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fp55d2k%2Fp55d2k.json&style=flat&label=visitors&color=orange)
-[![last Updated](https://img.shields.io/github/last-commit/p55d2k/p55d2k/main?label=last%20updated&style=flat)](https://github.com/p55d2k/p55d2k/commits)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Thardothien&theme=onedark&no-frame=true&row=1)
 
 <br/>  
 
