@@ -85,6 +85,15 @@ I'm a Developer from Singapore. I'm a High School Student at [Hwa Chong Institut
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Thardothien&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+
+&nbsp;
+&nbsp;
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thardothien&theme=white" height=200px alt="Thardothien's Programming Languages"/>
+&nbsp;
+</div>
+
+
 <br/>  
 
 
