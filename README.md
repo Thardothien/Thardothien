@@ -16,7 +16,17 @@
 
 Wow, you found my Github profile! Welcome!
 
-I'm a Frontend Developer from Singapore. I'm a High School Student at [Hwa Chong Institution](https://www.hci.edu.sg/). Feel free to contact me at [peanutandscuffy1@gmail.com](mailto:peanutandscuffy1@gmail.com), and check out my website at [zk.is-a.dev](https://zk.is-a.dev/)!
+I'm a Developer from Singapore. I'm a High School Student at [Hwa Chong Institution](https://www.hci.edu.sg/). Feel free to contact me at [yike.wang10@gmail.com](mailto:yike.wang10@gmail.com)!
+
+**A little piece of myself:**
+
+<img src="https://media3.giphy.com/media/XfJIwjs18gFl2dqdkI/giphy.gif?cid=ecf05e47c1ei5oy0ts13e1g3ia001mae50j1s0ig0skz1try&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; A High School Student at [Hwa Chong Institution](https://www.hci.edu.sg/)
+<br/>
+<img src="https://media4.giphy.com/media/55cVTSP1QhCgcrKVVW/giphy.gif?cid=790b7611a33cffb938a64cb87a4e26f8675031e0597f7382&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; I work on my personal projects in my free time
+<br/>
+<img src="https://media0.giphy.com/media/cNROH16WmAR5QAYQCY/giphy.gif?cid=790b76118d083ecca71fc84b8f6df0b39e46edfc667bbafe&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Fluent in English and Chinese, currently learning Indonesian
+<br/>
+<img src="https://media2.giphy.com/media/c7b4k49vPvcTJfbrCK/giphy.gif?cid=ecf05e47cx982wvwnusnttvallfrhca4lowhxys5t615elzp&ep=v1_gifs_gifId&rid=giphy.gif&ct=s" width="20" />&nbsp;&nbsp; Outside of programming, I'm intereted in math, physics, classical music and [video editing](https://www.youtube.com/@p55d2k)
 
 - ### **🔭 I’m currently working on a digital personal assistant, also known as [Jarvis](https://github.com/Thardothien/Jarvis2.0).**  
   
