@@ -14,6 +14,10 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Thardothien&theme=onedark&no-frame=true&row=1)
 
+Wow, you found my Github profile! Welcome!
+
+I'm a Frontend Developer from Singapore. I'm a High School Student at [Hwa Chong Institution](https://www.hci.edu.sg/). Feel free to contact me at [peanutandscuffy1@gmail.com](mailto:peanutandscuffy1@gmail.com), and check out my website at [zk.is-a.dev](https://zk.is-a.dev/)!
+
 - ### **🔭 I’m currently working on a digital personal assistant, also known as [Jarvis](https://github.com/Thardothien/Jarvis2.0).**  
   
 
@@ -23,7 +27,7 @@
 - ### **❓ Ask me about anything related to Python and robotics related.**  
   
 
-- ### **⚡ Fun fact: I use tabs over spaces. 😜**  
+- ### **⚡ Fun fact: I prefer tabs over spaces. **  
   
 
 <br/>  
