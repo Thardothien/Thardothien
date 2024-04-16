@@ -69,25 +69,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Thardothien" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/yike_wang10" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Yike Wang" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/Wang Yike" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
 <br/>  
 
@@ -98,22 +79,10 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7dahzkw8zo295eepvjmv78bu5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Thardothien&&style=flat-square" align="center" />
-</div>  
   
-
-<br/>  
-
 
 <br />
 
