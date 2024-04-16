@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://tenor.com/view/helloworld-programming-gif-10988733249605918265" align="center" style="width: 100%" />
+<img src="https://community.codenewbie.org/images/Sa8dsheYcXVUktjQCFvRa7q9MwAtAoRiTQfUdAkMfIM/rs:fill:1000:420/g:sm/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL2kv/cXExc3h2bmhldGEy/dXlmZ3ZpY3gucG5n" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Wang Yike, a student who codes projects for fun. 👨‍💻I have been coding since 2022🚀</div>  
+## **<div align="center">I'm Wang Yike, a student who codes projects for fun. 👨‍💻I have been coding since 2022🚀</div>**  
   
 
 - 🔭 I’m currently working on a digital personal assistant, also known as [Jarvis](https://github.com/Thardothien/Jarvis2.0).  
@@ -106,7 +106,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Thardothien&&style=flat-square" align="center" />
 </div>  
   
 
