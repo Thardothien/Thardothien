@@ -3,7 +3,8 @@
 </div>  
   
 
-# **<div align="center">I'm Wang Yike, a student who codes projects for fun. 👨‍💻I have been coding since 2022🚀</div>**  
+# **<div align="center">I'm Wang Yike, a student who codes projects for fun.👨‍💻</div>**  
+# **<div align="center">I have been coding since 2022🚀</div>**  
   
 
 - 🔭 I’m currently working on a digital personal assistant, also known as [Jarvis](https://github.com/Thardothien/Jarvis2.0).  
